@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.player-card {
+  border: black solid;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.player-card img {
+  max-width: 300px;
+}
+
+.player-card button {
+  background-color: hotpink;
+  color: black;
+  margin: 10px;
+}
